@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Jasoseol Test</string>
+
+    <!-- MainActivity -->
+    <string name="term_main_title">네이버 영화 검색</string>
+    <string name="term_favorite">즐겨찾기</string>
+    <string name="term_favorite_list">즐겨찾기 목록</string>
 </resources>
